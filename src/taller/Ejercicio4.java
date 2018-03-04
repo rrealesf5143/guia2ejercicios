@@ -1,6 +1,7 @@
 /**
  * @Autor: Ronald Reales rrealesf5143@universidadean.edu.co 
  * Paseo a Melgar
+ * usando NetBeans
  *
  */
 package taller;

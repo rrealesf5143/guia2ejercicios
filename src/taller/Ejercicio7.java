@@ -7,6 +7,7 @@ import java.io.InputStreamReader;
 /**
  *@Autor: Ronald Reales rrealesf5143@universidadean.edu.co 
  * Propiedades de Triángulo
+ * usando NetBeans
  */
 public class Ejercicio7 {
 

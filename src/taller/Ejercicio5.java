@@ -1,6 +1,7 @@
 /**
  * @Autor: Ronald Reales rrealesf5143@universidadean.edu.co 
  * Programa para un avión
+ * usando NetBeans
  *
  */
 package taller;

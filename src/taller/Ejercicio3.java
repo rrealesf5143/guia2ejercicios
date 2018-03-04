@@ -7,7 +7,8 @@ import java.io.InputStreamReader;
 /**
  * @Autor: Ronald Reales rrealesf5143@universidadean.edu.co 
  * Volumen de tronco de cono Segun los datos: (Volumen de cono completo) - (Volumen de cono deficiente)
- * Formula de Volumen: http://www.universoformulas.com/matematicas/geometria/volumen-tronco-cono/
+ * Formula de Volumen sacada de la pagina: http://www.universoformulas.com/matematicas/geometria/volumen-tronco-cono/
+ * usando NetBeans
  */
 public class Ejercicio3 {
 

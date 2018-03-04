@@ -1,13 +1,11 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Creado por RR con netbeans SE  usando el JDK 1.8 de JAVA para la Universidad EAN 
  */
 package taller;
 
 /**
  *
- * @author emoreno
+ * @author rrealesf5143@universidadean.edu.co
  */
 public class Taller {
 

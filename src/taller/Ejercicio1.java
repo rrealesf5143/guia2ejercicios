@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * @Autor: Ronald Reales rrealesf5143@universidadean.edu.co 
+ * usando NetBeans
  * Tronco de Pirámide
  * Formula de Área de pirámide sacada de: http://www.universoformulas.com/matematicas/geometria/area-tronco-piramide/
  */

@@ -1,7 +1,7 @@
 /**
  * @Autor: Ronald Reales rrealesf5143@universidadean.edu.co 
  * Transporte de carga de Bogotá a Sasaima
- *
+ * usando NetBeans
  */
 package taller;
 
